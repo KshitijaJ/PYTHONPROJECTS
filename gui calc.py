@@ -1,4 +1,5 @@
 # GUI CALCULATOR - TKINTER
+#pip install tk
 import tkinter as tk
 import tkinter.messagebox
 from tkinter.constants import SUNKEN
